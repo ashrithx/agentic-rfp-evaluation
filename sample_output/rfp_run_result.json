@@ -1,0 +1,401 @@
+{
+  "rfp_run_id": "SAMPLE-20260928-001",
+  "results": [
+    {
+      "supplier_name": "NexaWorks",
+      "submission_date": "2026-09-19",
+      "experience_rating": 7,
+      "criteria": {
+        "1": {
+          "score": 8.0,
+          "evidence": "Synthetic sample evidence for criterion 1.",
+          "justification": "Sample deterministic output for submission documentation."
+        },
+        "2": {
+          "score": 10.0,
+          "evidence": "Synthetic sample evidence for criterion 2.",
+          "justification": "Sample deterministic output for submission documentation."
+        },
+        "3": {
+          "score": 8.0,
+          "evidence": "Synthetic sample evidence for criterion 3.",
+          "justification": "Sample deterministic output for submission documentation."
+        },
+        "4": {
+          "score": 8.0,
+          "evidence": "Synthetic sample evidence for criterion 4.",
+          "justification": "Sample deterministic output for submission documentation."
+        },
+        "5": {
+          "score": 9.0,
+          "evidence": "Synthetic sample evidence for criterion 5.",
+          "justification": "Sample deterministic output for submission documentation."
+        }
+      },
+      "absolute_score": 85.0,
+      "ppi": 89.44444444444444,
+      "details": [
+        {
+          "criterion_id": 1,
+          "criterion": "Technical Capability",
+          "score": 8.0,
+          "max_score": 10.0,
+          "weight": 30.0,
+          "benchmark": 9.0,
+          "gap": -1.0,
+          "relative_performance_pct": 88.88888888888889,
+          "evidence": "Synthetic sample evidence for criterion 1.",
+          "justification": "Sample deterministic output for submission documentation."
+        },
+        {
+          "criterion_id": 2,
+          "criterion": "Implementation Plan",
+          "score": 10.0,
+          "max_score": 10.0,
+          "weight": 20.0,
+          "benchmark": 10.0,
+          "gap": 0.0,
+          "relative_performance_pct": 100.0,
+          "evidence": "Synthetic sample evidence for criterion 2.",
+          "justification": "Sample deterministic output for submission documentation."
+        },
+        {
+          "criterion_id": 3,
+          "criterion": "Commercial Value",
+          "score": 8.0,
+          "max_score": 10.0,
+          "weight": 20.0,
+          "benchmark": 10.0,
+          "gap": -2.0,
+          "relative_performance_pct": 80.0,
+          "evidence": "Synthetic sample evidence for criterion 3.",
+          "justification": "Sample deterministic output for submission documentation."
+        },
+        {
+          "criterion_id": 4,
+          "criterion": "Security & Compliance",
+          "score": 8.0,
+          "max_score": 10.0,
+          "weight": 20.0,
+          "benchmark": 9.0,
+          "gap": -1.0,
+          "relative_performance_pct": 88.88888888888889,
+          "evidence": "Synthetic sample evidence for criterion 4.",
+          "justification": "Sample deterministic output for submission documentation."
+        },
+        {
+          "criterion_id": 5,
+          "criterion": "Support & Experience",
+          "score": 9.0,
+          "max_score": 10.0,
+          "weight": 10.0,
+          "benchmark": 10.0,
+          "gap": -1.0,
+          "relative_performance_pct": 90.0,
+          "evidence": "Synthetic sample evidence for criterion 5.",
+          "justification": "Sample deterministic output for submission documentation."
+        }
+      ],
+      "final_rank": 1
+    },
+    {
+      "supplier_name": "Apex Systems",
+      "submission_date": "2026-09-20",
+      "experience_rating": 8,
+      "criteria": {
+        "1": {
+          "score": 9.0,
+          "evidence": "Synthetic sample evidence for criterion 1.",
+          "justification": "Sample deterministic output for submission documentation."
+        },
+        "2": {
+          "score": 7.0,
+          "evidence": "Synthetic sample evidence for criterion 2.",
+          "justification": "Sample deterministic output for submission documentation."
+        },
+        "3": {
+          "score": 5.0,
+          "evidence": "Synthetic sample evidence for criterion 3.",
+          "justification": "Sample deterministic output for submission documentation."
+        },
+        "4": {
+          "score": 9.0,
+          "evidence": "Synthetic sample evidence for criterion 4.",
+          "justification": "Sample deterministic output for submission documentation."
+        },
+        "5": {
+          "score": 8.0,
+          "evidence": "Synthetic sample evidence for criterion 5.",
+          "justification": "Sample deterministic output for submission documentation."
+        }
+      },
+      "absolute_score": 77.0,
+      "ppi": 82.0,
+      "details": [
+        {
+          "criterion_id": 1,
+          "criterion": "Technical Capability",
+          "score": 9.0,
+          "max_score": 10.0,
+          "weight": 30.0,
+          "benchmark": 9.0,
+          "gap": 0.0,
+          "relative_performance_pct": 100.0,
+          "evidence": "Synthetic sample evidence for criterion 1.",
+          "justification": "Sample deterministic output for submission documentation."
+        },
+        {
+          "criterion_id": 2,
+          "criterion": "Implementation Plan",
+          "score": 7.0,
+          "max_score": 10.0,
+          "weight": 20.0,
+          "benchmark": 10.0,
+          "gap": -3.0,
+          "relative_performance_pct": 70.0,
+          "evidence": "Synthetic sample evidence for criterion 2.",
+          "justification": "Sample deterministic output for submission documentation."
+        },
+        {
+          "criterion_id": 3,
+          "criterion": "Commercial Value",
+          "score": 5.0,
+          "max_score": 10.0,
+          "weight": 20.0,
+          "benchmark": 10.0,
+          "gap": -5.0,
+          "relative_performance_pct": 50.0,
+          "evidence": "Synthetic sample evidence for criterion 3.",
+          "justification": "Sample deterministic output for submission documentation."
+        },
+        {
+          "criterion_id": 4,
+          "criterion": "Security & Compliance",
+          "score": 9.0,
+          "max_score": 10.0,
+          "weight": 20.0,
+          "benchmark": 9.0,
+          "gap": 0.0,
+          "relative_performance_pct": 100.0,
+          "evidence": "Synthetic sample evidence for criterion 4.",
+          "justification": "Sample deterministic output for submission documentation."
+        },
+        {
+          "criterion_id": 5,
+          "criterion": "Support & Experience",
+          "score": 8.0,
+          "max_score": 10.0,
+          "weight": 10.0,
+          "benchmark": 10.0,
+          "gap": -2.0,
+          "relative_performance_pct": 80.0,
+          "evidence": "Synthetic sample evidence for criterion 5.",
+          "justification": "Sample deterministic output for submission documentation."
+        }
+      ],
+      "final_rank": 2
+    },
+    {
+      "supplier_name": "BrightPath Tech",
+      "submission_date": "2026-09-18",
+      "experience_rating": 4,
+      "criteria": {
+        "1": {
+          "score": 7.0,
+          "evidence": "Synthetic sample evidence for criterion 1.",
+          "justification": "Sample deterministic output for submission documentation."
+        },
+        "2": {
+          "score": 9.0,
+          "evidence": "Synthetic sample evidence for criterion 2.",
+          "justification": "Sample deterministic output for submission documentation."
+        },
+        "3": {
+          "score": 10.0,
+          "evidence": "Synthetic sample evidence for criterion 3.",
+          "justification": "Sample deterministic output for submission documentation."
+        },
+        "4": {
+          "score": 5.0,
+          "evidence": "Synthetic sample evidence for criterion 4.",
+          "justification": "Sample deterministic output for submission documentation."
+        },
+        "5": {
+          "score": 5.0,
+          "evidence": "Synthetic sample evidence for criterion 5.",
+          "justification": "Sample deterministic output for submission documentation."
+        }
+      },
+      "absolute_score": 74.0,
+      "ppi": 77.44444444444444,
+      "details": [
+        {
+          "criterion_id": 1,
+          "criterion": "Technical Capability",
+          "score": 7.0,
+          "max_score": 10.0,
+          "weight": 30.0,
+          "benchmark": 9.0,
+          "gap": -2.0,
+          "relative_performance_pct": 77.77777777777779,
+          "evidence": "Synthetic sample evidence for criterion 1.",
+          "justification": "Sample deterministic output for submission documentation."
+        },
+        {
+          "criterion_id": 2,
+          "criterion": "Implementation Plan",
+          "score": 9.0,
+          "max_score": 10.0,
+          "weight": 20.0,
+          "benchmark": 10.0,
+          "gap": -1.0,
+          "relative_performance_pct": 90.0,
+          "evidence": "Synthetic sample evidence for criterion 2.",
+          "justification": "Sample deterministic output for submission documentation."
+        },
+        {
+          "criterion_id": 3,
+          "criterion": "Commercial Value",
+          "score": 10.0,
+          "max_score": 10.0,
+          "weight": 20.0,
+          "benchmark": 10.0,
+          "gap": 0.0,
+          "relative_performance_pct": 100.0,
+          "evidence": "Synthetic sample evidence for criterion 3.",
+          "justification": "Sample deterministic output for submission documentation."
+        },
+        {
+          "criterion_id": 4,
+          "criterion": "Security & Compliance",
+          "score": 5.0,
+          "max_score": 10.0,
+          "weight": 20.0,
+          "benchmark": 9.0,
+          "gap": -4.0,
+          "relative_performance_pct": 55.55555555555556,
+          "evidence": "Synthetic sample evidence for criterion 4.",
+          "justification": "Sample deterministic output for submission documentation."
+        },
+        {
+          "criterion_id": 5,
+          "criterion": "Support & Experience",
+          "score": 5.0,
+          "max_score": 10.0,
+          "weight": 10.0,
+          "benchmark": 10.0,
+          "gap": -5.0,
+          "relative_performance_pct": 50.0,
+          "evidence": "Synthetic sample evidence for criterion 5.",
+          "justification": "Sample deterministic output for submission documentation."
+        }
+      ],
+      "final_rank": 3
+    },
+    {
+      "supplier_name": "Orbit Digital",
+      "submission_date": "2026-09-21",
+      "experience_rating": 10,
+      "criteria": {
+        "1": {
+          "score": 6.0,
+          "evidence": "Synthetic sample evidence for criterion 1.",
+          "justification": "Sample deterministic output for submission documentation."
+        },
+        "2": {
+          "score": 8.0,
+          "evidence": "Synthetic sample evidence for criterion 2.",
+          "justification": "Sample deterministic output for submission documentation."
+        },
+        "3": {
+          "score": 7.0,
+          "evidence": "Synthetic sample evidence for criterion 3.",
+          "justification": "Sample deterministic output for submission documentation."
+        },
+        "4": {
+          "score": 7.0,
+          "evidence": "Synthetic sample evidence for criterion 4.",
+          "justification": "Sample deterministic output for submission documentation."
+        },
+        "5": {
+          "score": 10.0,
+          "evidence": "Synthetic sample evidence for criterion 5.",
+          "justification": "Sample deterministic output for submission documentation."
+        }
+      },
+      "absolute_score": 72.0,
+      "ppi": 75.55555555555556,
+      "details": [
+        {
+          "criterion_id": 1,
+          "criterion": "Technical Capability",
+          "score": 6.0,
+          "max_score": 10.0,
+          "weight": 30.0,
+          "benchmark": 9.0,
+          "gap": -3.0,
+          "relative_performance_pct": 66.66666666666666,
+          "evidence": "Synthetic sample evidence for criterion 1.",
+          "justification": "Sample deterministic output for submission documentation."
+        },
+        {
+          "criterion_id": 2,
+          "criterion": "Implementation Plan",
+          "score": 8.0,
+          "max_score": 10.0,
+          "weight": 20.0,
+          "benchmark": 10.0,
+          "gap": -2.0,
+          "relative_performance_pct": 80.0,
+          "evidence": "Synthetic sample evidence for criterion 2.",
+          "justification": "Sample deterministic output for submission documentation."
+        },
+        {
+          "criterion_id": 3,
+          "criterion": "Commercial Value",
+          "score": 7.0,
+          "max_score": 10.0,
+          "weight": 20.0,
+          "benchmark": 10.0,
+          "gap": -3.0,
+          "relative_performance_pct": 70.0,
+          "evidence": "Synthetic sample evidence for criterion 3.",
+          "justification": "Sample deterministic output for submission documentation."
+        },
+        {
+          "criterion_id": 4,
+          "criterion": "Security & Compliance",
+          "score": 7.0,
+          "max_score": 10.0,
+          "weight": 20.0,
+          "benchmark": 9.0,
+          "gap": -2.0,
+          "relative_performance_pct": 77.77777777777779,
+          "evidence": "Synthetic sample evidence for criterion 4.",
+          "justification": "Sample deterministic output for submission documentation."
+        },
+        {
+          "criterion_id": 5,
+          "criterion": "Support & Experience",
+          "score": 10.0,
+          "max_score": 10.0,
+          "weight": 10.0,
+          "benchmark": 10.0,
+          "gap": 0.0,
+          "relative_performance_pct": 100.0,
+          "evidence": "Synthetic sample evidence for criterion 5.",
+          "justification": "Sample deterministic output for submission documentation."
+        }
+      ],
+      "final_rank": 4
+    }
+  ],
+  "warnings": [],
+  "benchmarks": {
+    "1": 9.0,
+    "2": 10.0,
+    "3": 10.0,
+    "4": 9.0,
+    "5": 10.0
+  }
+}
